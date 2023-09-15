@@ -1,0 +1,9 @@
+{
+  "name": "devkit-demo",
+  "version": "1.0.0",
+  "description": "a devkit demo",
+  "main": "./devkit.js",
+  "scripts": {},
+  "author": "",
+  "license": "MIT"
+}
