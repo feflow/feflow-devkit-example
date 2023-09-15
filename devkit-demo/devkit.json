@@ -1,0 +1,11 @@
+{
+
+  "builders": {
+    "dev": {
+      "implementation": "./lib/dev.js"
+    },
+    "build": {
+      "implementation": "./lib/build.js"
+    }
+  }
+}
